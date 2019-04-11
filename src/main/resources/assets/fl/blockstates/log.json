@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "axis=y,variant=weathered": { "model": "fl:log_weathered" },
+        "axis=z,variant=weathered": { "model": "fl:log_weathered", "x": 90 },
+        "axis=x,variant=weathered": { "model": "fl:log_weathered", "x": 90, "y": 90 },
+        "axis=none,variant=weathered": { "model": "fl:log_weathered" },
+       
+        "axis=y,variant=cherry_blossom": { "model": "fl:log_cherry_blossom" },
+        "axis=z,variant=cherry_blossom": { "model": "fl:log_cherry_blossom", "x": 90 },
+        "axis=x,variant=cherry_blossom": { "model": "fl:log_cherry_blossom", "x": 90, "y": 90 },
+        "axis=none,variant=cherry_blossom": { "model": "fl:log_cherry_blossom" }
+    }
+}

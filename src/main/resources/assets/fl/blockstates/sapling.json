@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=weathered": { "model": "fl:sapling_weathered" },
+        "stage=1,variant=weathered": { "model": "fl:sapling_weathered" },
+
+        "stage=0,variant=cherry_blossom": { "model": "fl:sapling_cherry_blossom" },
+        "stage=1,variant=cherry_blossom": { "model": "fl:sapling_cherry_blossom" }
+    }
+}

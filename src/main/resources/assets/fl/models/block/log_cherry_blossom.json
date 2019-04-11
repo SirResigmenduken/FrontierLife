@@ -1,0 +1,7 @@
+{
+   "parent": "block/cube_column",
+   "textures": {
+       "end": "fl:blocks/log_cherry_blossom_top",
+       "side": "fl:blocks/log_cherry_blossom"
+   }
+}

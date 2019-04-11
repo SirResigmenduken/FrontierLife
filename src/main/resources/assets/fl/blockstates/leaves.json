@@ -1,0 +1,13 @@
+{
+    "variants": {
+	"check_decay=true,decayable=true,variant=weathered": { "model": "fl:leaves_weathered" },
+        "check_decay=true,decayable=false,variant=weathered": { "model": "fl:leaves_weathered" },
+        "check_decay=false,decayable=true,variant=weathered": { "model": "fl:leaves_weathered" },
+        "check_decay=false,decayable=false,variant=weathered": { "model": "fl:leaves_weathered" },
+	
+	"check_decay=true,decayable=true,variant=cherry_blossom": { "model": "fl:leaves_cherry_blossom" },
+        "check_decay=true,decayable=false,variant=cherry_blossom": { "model": "fl:leaves_cherry_blossom" },
+        "check_decay=false,decayable=true,variant=cherry_blossom": { "model": "fl:leaves_cherry_blossom" },
+        "check_decay=false,decayable=false,variant=cherry_blossom": { "model": "fl:leaves_cherry_blossom" }
+    }
+}

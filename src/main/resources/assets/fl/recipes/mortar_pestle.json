@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FS",
+        "B "
+       
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:flint"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:bowl"
+        }   
+        
+    },
+    
+    "result":
+    {
+        "item" : "fl:mortar_pestle"
+    }
+}

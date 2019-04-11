@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "G G",
+        "GGG"
+       
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:glass"
+        }
+  
+    },
+    
+    "result":
+    {
+        "item" : "fl:mason_jar",
+        "count": 2
+    }
+}

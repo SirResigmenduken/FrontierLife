@@ -1,0 +1,21 @@
+{   "parent": "block/block",
+    "textures": {
+        "particle": "fl:blocks/evaporatorbottom",
+        "evaporatorbottom": "fl:blocks/evaporatorbottom",
+        "evaporatortop": "fl:blocks/evaporatortop",
+        "evaporatorsides": "fl:blocks/evaporatorsides"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatorbottom"} ,
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatortop" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatorsides" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatorsides" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatorsides" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#evaporatorsides" }
+            }
+        }
+    ]
+}

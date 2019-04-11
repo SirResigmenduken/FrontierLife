@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "fl:log_seat", "y": 90 },
+    "facing=south": { "model": "fl:log_seat", "y": 270 },
+    "facing=west":  { "model": "fl:log_seat", "y": 180 },
+    "facing=east":  { "model": "fl:log_seat" }
+  }
+}

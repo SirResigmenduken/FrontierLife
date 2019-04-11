@@ -1,0 +1,142 @@
+//InventoryTabs
+itemGroup.frontier_resources=Frontier Resources
+itemGroup.frontier_foods=Frontier Foods
+itemGroup.frontier_animals=Frontier Animals
+
+//Items
+item.seeds_alfalfa.name=Alfalfa Seeds
+item.seeds_bean.name=Bean Seeds
+item.seeds_corn.name=Corn Seeds
+item.seeds_cucumber.name=Cucumber Seeds
+item.seeds_grape.name=Grape Seeds
+item.seeds_lettuce.name=Lettuce Seeds
+item.seeds_oat.name=Oat Seeds
+item.seeds_tomato.name=Tomato Seeds
+
+item.alfalfa.name=Alfalfa
+item.bacon.name=Bacon
+item.bacon_and_eggs.name=Bacon and Eggs
+item.bayleaf.name=Bayleaf
+item.beans.name=Beans
+item.beans_and_pork.name=Pork and Beans
+item.beans_refried.name=Refried Beans
+item.beer.name=Beer
+item.biscuit.name=Biscuit
+item.bison_raw.name=Raw Bison
+item.bison_cooked.name=Cooked Bison
+item.blackberry.name=Blackberry
+item.broth.name=Broth
+item.burger.name=Burger
+item.butter.name=Butter
+item.cake_carrot.name=Carrot Cake
+item.cake_cheese.name=Cheese Cake
+item.cake_chocolate.name=Chocolate Cake
+item.calamari_raw.name=Raw Calamari
+item.calamari_cooked.name=Cooked Calamari
+item.cheese.name=Cheese
+item.cherries.name=Cherries
+item.chili.name=Chili
+item.chocolate_bar.name=Chocolate Bar
+item.corn.name=Corn
+item.corn_chowder.name=Corn Chowder
+item.corn_creamed.name=Creamed Corn
+item.cornbread.name=Cornbread
+item.cornmeal.name=Cornmeal
+item.cream.name=Cream
+item.cucumber.name=Cucumber
+item.dough.name=Dough
+item.fish.name=Raw Fish
+item.fish_filet_raw.name=Raw Fish Filet
+item.fish_filet_cooked.name=Cooked Fish Filet
+item.flour.name=Flour
+item.fried_egg.name=Fried Egg
+item.fruit_jam.name=Fruit Jam
+item.fruit_wine.name=Fruit Wine
+item.grapes.name=Grapes
+item.green_apple.name=Green Apple
+item.honey.name=Honey
+item.honeycomb_raw.name=Raw Honeycomb
+item.lettuce.name=Lettuce
+item.meat_dried.name=Dried Meat
+item.meat_salted.name=Salted Meat
+item.milk_bottle.name=Milk Bottle
+item.oats.name=Oats
+item.oat_bread.name=Oat Bread
+item.oatmeal_cookie.name=Oatmeal Cookie
+item.oatmeal.name=Oatmeal
+item.pancakes.name=Pancakes
+item.pickled_apples.name=Pickled Apples
+item.pickled_beetroot.name=Pickled Beetroot
+item.pickled_carrots.name=Pickled Carrots
+item.pickled_eggs.name=Pickled Eggs
+item.pickled_meat.name=Pickled Meat
+item.pickled_mushrooms.name=Pickled Mushrooms
+item.pickled_potatoes.name=Pickled Potatoes
+item.pickled_tomatoes.name=Pickled Tomatoes
+item.pickles.name=Pickles
+item.pie_apple.name=Apple Pie
+item.pie_apple_cream.name=Apple Pie with Cream
+item.pie_blackberry.name=Blackberry Pie
+item.pie_cherry.name=Cherry Pie
+item.pie_pumpkin_cream.name=Pumpkin Pie with Cream
+item.pie_raspberry.name=Raspberry Pie
+item.pie_strawberry.name=Strawberry Pie
+item.prawn_raw.name=Raw Prawn
+item.prawn_cooked.name=Cooked Prawn
+item.pumpkin_slice_raw.name=Raw Pumpkin Slice
+item.pumpkin_slice_roasted.name=Roasted Pumpkin Slice
+item.raspberry.name=Raspberry
+item.salad.name=Salad
+item.salt.name=Salt
+item.saltlick.name=Saltlick
+item.sausage_raw.name=Raw Sausage
+item.sausage_cooked.name=Cooked Sausage
+item.seaweed.name=Seaweed
+item.soup_bean.name=Bean Soup
+item.soup_carrot.name=Carrot Soup
+item.soup_potato.name=Potato Soup
+item.soup_vegetable.name=Vegetable Soup
+item.spice_leaf.name=Spice Leaf
+item.stew.name=Stew
+item.strawberry.name=Strawberry
+item.tomato.name=Tomato
+item.turkey_egg.name=Turkey Egg
+item.turkey_egg_cooked.name=Cooked Turkey Egg
+item.veggie_sushi.name=Veggie Sushi
+item.venison_raw.name=Raw Venison
+item.venison_cooked.name=Cooked Venison
+item.vinegar.name=Vinegar
+item.walnut.name=Walnut
+item.wild_meat_raw.name=Raw Wild Meat
+item.wild_meat_cooked.name=Cooked Wild Meat
+
+item.coin.name=Coin
+item.cooking_pot.name=Cooking Pot
+item.kitchen_knife.name=Kitchen Knife
+item.frying_pan.name=Frying Pan
+item.mason_jar.name=Mason Jar
+item.mortar_pestle.name=Mortar Pestle
+
+item.dummy_item.name=Dummy Item
+
+//Blocks
+tile.copper_ore.name=Copper Ore
+tile.lead_ore.name=Lead Ore
+tile.tin_ore.name=Tin Ore
+tile.silver_ore.name=Silver Ore
+
+tile.raw_slate.name=Raw Slate
+
+tile.raw_salt.name=Raw Salt
+
+tile.planks_weathered.name=Weathered Wood Planks
+tile.planks_cherry_blossom.name=Cherry Blossom Wood Planks
+
+tile.log_weathered.name=Weathered Wood
+tile.log_cherry_blossom.name=Cherry Blossom Wood
+
+tile.leaves_weathered.name=Weathered Leaves
+tile.leaves_cherry_blossom.name=Cherry Blossom Leaves
+
+tile.sapling_weathered.name=Weathered Sapling
+tile.sapling_cherry_blossom.name=Cherry Blossom Sapling

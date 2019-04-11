@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=weathered": { "model": "fl:planks_weathered" },
+	"variant=cherry_blossom": { "model": "fl:planks_cherry_blossom" }
+    }
+}

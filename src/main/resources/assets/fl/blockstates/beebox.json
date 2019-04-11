@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "fl:beebox", "y": 180},
+    "facing=south": { "model": "fl:beebox" },
+    "facing=west":  { "model": "fl:beebox", "y": 90 },
+    "facing=east":  { "model": "fl:beebox", "y": 270 }
+    }
+}
